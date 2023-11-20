@@ -29,4 +29,7 @@ Researchers:
 
 Researchers aim to expand the scientific knowledge surrounding health issues. This project provides an opportunity for researchers to contribute to the understanding of STD epidemiology, contributing to the broader body of knowledge on public health and disease dynamics.
 
+# Access Excel File
+https://github.com/stephgomez98/STD-Data-Visualization/blob/main/STD%20Project%201%20(version%201).xlsx
+
 
